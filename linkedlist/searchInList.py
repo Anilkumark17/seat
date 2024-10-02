@@ -59,6 +59,6 @@ target = 30
 position = ll.search(target)
 
 if position != -1:
-    print(f"Element {target} found at position {position}.")
+    print(f"Element {target} found  {position}.")
 else:
     print(f"Element {target} not found in the linked list.")
